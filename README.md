@@ -1,5 +1,5 @@
 # Hello, world!
 
-Я учусь в нетологии
+I study in Netology
 
 14.08.2024
